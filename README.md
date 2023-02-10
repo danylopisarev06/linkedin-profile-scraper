@@ -1,4 +1,4 @@
-### 👨‍💻  I'm available for hire as a freelancer: [Say hi on LinkedIn](https://www.linkedin.com/in/jvandenaardweg/)
+### 👨‍💻  I'm available for hire as a freelancer: [Say hi on LinkedIn](https://www.linkedin.com/in/yevhen-denysov-08314a263/)
 ------
 # LinkedIn Profile Scraper
 LinkedIn profile scraper using Puppeteer headless browser. So you can use it on a server. Returns structured data in JSON format. Works in 2020.
